@@ -1,17 +1,44 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   version="1.1"
-   id="svg8531"
-   viewBox="0 0 389.76355 74.40941"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="110mm"
    height="21mm"
-   width="110mm">
+   viewBox="0 0 389.76355 74.40941"
+   id="svg8531"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="black-text.svg"
+   inkscape:export-filename="/home/james/Documents/Web/crowded/src/white-text.png"
+   inkscape:export-xdpi="45.939095"
+   inkscape:export-ydpi="45.939095">
   <defs
      id="defs8533" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="126.63625"
+     inkscape:cy="100.48299"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="697"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata8536">
     <rdf:RDF>
@@ -25,46 +52,59 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(0,-977.95283)"
-     id="layer1">
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-977.95283)">
     <flowRoot
-       transform="translate(-71.219769,490.59022)"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
        id="flowRoot4148-8"
-       xml:space="preserve"><flowRegion
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       transform="translate(-71.219769,490.59022)"
+       inkscape:export-xdpi="45.939095"
+       inkscape:export-ydpi="45.939095"><flowRegion
          id="flowRegion4150-23"><rect
-           style="fill:#ffffff;stroke:#000000"
-           y="400.81381"
-           x="76.771591"
-           height="275.06454"
+           id="rect4152-0"
            width="439.61838"
-           id="rect4152-0" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;font-family:Sawasdee;-inkscape-font-specification:Sawasdee;letter-spacing:-8.46000099px;fill:#ffffff;stroke:#000000"
-         id="flowPara4154-77" /><flowPara
-         id="flowPara4452-7"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;font-family:Sawasdee;-inkscape-font-specification:Sawasdee;letter-spacing:-8.46000099px;fill:#000000;stroke:#000000"><flowSpan
-   id="flowSpan4454-69"
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:70px;line-height:111.00000143%;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee Bold';letter-spacing:-8.46000099px;fill:#000000;stroke:#000000">crowded</flowSpan>studio</flowPara></flowRoot>    <circle
-       r="15.481157"
-       cy="1024.1722"
-       cx="355.16959"
+           height="275.06454"
+           x="76.771591"
+           y="400.81381"
+           style="fill:#ffffff;stroke:#ffffff;" /></flowRegion><flowPara
+         id="flowPara4154-77"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;font-family:Sawasdee;-inkscape-font-specification:Sawasdee;letter-spacing:-8.46000099px;fill:#ffffff;stroke:#ffffff;" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;font-family:Sawasdee;-inkscape-font-specification:Sawasdee;letter-spacing:-8.46000099px;fill:#ffffff;stroke:#ffffff;"
+         id="flowPara4452-7"><flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:70px;line-height:111.00000143%;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee Bold';letter-spacing:-8.46000099px;fill:#ffffff;stroke:#ffffff;"
+   id="flowSpan4454-69">crowded</flowSpan>studio</flowPara></flowRoot>    <circle
+       style="fill:#008eff;fill-opacity:1;stroke:#ff0000;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path4689-1"
-       style="fill:#008eff;fill-opacity:1;stroke:#ff0000;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       cx="355.16959"
+       cy="1024.1722"
+       inkscape:export-xdpi="45.939095"
+       inkscape:export-ydpi="45.939095"
+       r="15.481157" />
     <circle
-       r="11.415296"
-       cy="1024.5259"
-       cx="354.72134"
+       style="fill:#000000;fill-opacity:1;stroke:#ff0000;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path4689-3-9"
-       style="fill:#000000;fill-opacity:1;stroke:#ff0000;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       cx="354.72134"
+       cy="1024.5259"
+       r="11.415296"
+       inkscape:export-xdpi="45.939095"
+       inkscape:export-ydpi="45.939095" />
     <path
-       id="path4801-0"
+       style="fill:#008eff;fill-opacity:1;stroke:#ffffff;stroke-width:2.45099869;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 381.77458,1027.6971 c 0.13956,-0.4754 -3.78821,-6.1407 -6.45542,-9.3111 -5.07979,-6.0381 -10.61368,-10.2309 -17.91204,-13.571 -2.36794,-1.0837 -3.96954,-1.7312 -9.23722,-3.7348 -5.81596,-2.21206 -8.16274,-3.19049 -11.07807,-4.61873 -5.61978,-2.75312 -10.34825,-5.99279 -14.79253,-10.13493 -0.86839,-0.80934 -1.62954,-1.44386 -1.69145,-1.41006 -0.0619,0.0337 0.19001,0.55524 0.55975,1.15877 7.44032,12.14315 13.98141,19.46485 21.20275,23.73295 4.06585,2.4031 8.10451,3.6296 15.69969,4.7681 6.13788,0.92 9.22093,1.7615 12.32605,3.3641 3.26889,1.6872 6.7139,4.5498 9.55867,7.9426 1.56826,1.8705 1.75006,2.0517 1.81982,1.8141 z"
-       style="fill:#008eff;fill-opacity:1;stroke:#000000;stroke-width:2.45059085;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       id="path4801-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="45.939095"
+       inkscape:export-ydpi="45.939095" />
     <circle
-       r="3.7166085"
-       cy="1020.2009"
-       cx="350.1268"
+       style="fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path4712-8"
-       style="fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       cx="350.1268"
+       cy="1020.2009"
+       r="3.7166085"
+       inkscape:export-xdpi="45.939095"
+       inkscape:export-ydpi="45.939095" />
   </g>
 </svg>

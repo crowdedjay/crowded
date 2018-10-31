@@ -8,7 +8,17 @@
 }
 
 .crowded-logo{
-  height: 60vmin;
+  width:90%;
+}
+
+.fa {
+  padding: 10px;
+  font-size: 30px;
+  text-align: center;
+  text-decoration: none;
+  background: #008eff;
+  color: white;
+  border-radius: 50%;
 }
 
 code{
@@ -20,12 +30,11 @@ code{
 }
 
 .App-header {
-  background-color: #282c34;
+  padding-top:10%;
+  background-image: url(./bg.svg);
+  background-size: cover;
+  background-position: center;
   min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
 }
